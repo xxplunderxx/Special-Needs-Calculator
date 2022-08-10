@@ -5,13 +5,13 @@ Code written during my internship @ Envestnet | Moneyguide (Summer 2022)
 BackEnd
  - linkedin.com/in/jacob-eul
  - linkedin.com/in/jonathan-mantello
- - 
+
 Frontend
  - linkedin.com/in/troy-dunbar
  - linkedin.com/in/giancarlopadron
  - linkedin.com/in/timstumper
 
-BusinessAnalysis
+Business Analyst
  - linkedin.com/in/salona-khanal
  - linkedin.com/in/pranav-v-886986163
 
