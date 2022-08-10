@@ -1,0 +1,14 @@
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.deps.json
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.runtimeconfig.json
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.dll
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.pdb
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.csproj.AssemblyReference.cache
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.AssemblyInfoInputs.cache
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.AssemblyInfo.cs
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.csproj.CoreCompileInputs.cache
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.dll
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\refint\Special-Needs-Analysis-Calculator.Data.dll
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.pdb
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.genruntimeconfig.cache
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Data\obj\Debug\net6.0\ref\Special-Needs-Analysis-Calculator.Data.dll
