@@ -50,5 +50,5 @@ Separate layers for
  - data / domain models
 
 # Tools
-Code was written in C# using the .Net framework to make Restful API enpoints. PostgreSQL was used as our database solution. 
+Code was written in C# using the .Net framework to make Restful API endpoints. PostgreSQL was used as our database solution. 
 I used Postman for testing and JIRA for feature tracking.
