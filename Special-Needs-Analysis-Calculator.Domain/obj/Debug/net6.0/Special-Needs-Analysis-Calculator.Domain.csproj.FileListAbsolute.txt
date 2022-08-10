@@ -1,0 +1,15 @@
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.deps.json
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.dll
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.pdb
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.csproj.AssemblyReference.cache
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.AssemblyInfoInputs.cache
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.AssemblyInfo.cs
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.dll
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\refint\Special-Needs-Analysis-Calculator.Domain.dll
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.pdb
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\ref\Special-Needs-Analysis-Calculator.Domain.dll
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.dll
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\bin\Debug\net6.0\Special-Needs-Analysis-Calculator.Data.pdb
+C:\Users\jeul\Desktop\Backend Project 2\Special-Needs-Analysis-Calculator.Domain\obj\Debug\net6.0\Special-Needs-Analysis-Calculator.Domain.csproj.CopyComplete
