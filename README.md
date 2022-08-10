@@ -2,11 +2,9 @@
 Code written during my internship @ Envestnet | Moneyguide (Summer 2022)
 
 # Authors
-This code was written by myself and @jonathan
-
-linkedin.com/in/jacob-eul
-
-linkedin.com/in/jonathan-mantello
+ - BackEnd
+  - linkedin.com/in/jacob-eul
+  - linkedin.com/in/jonathan-mantello
 
 # Requirements
 Create an application that can educate and guide a user on how to plan for Special Needs dependents.
