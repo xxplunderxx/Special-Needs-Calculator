@@ -6,15 +6,6 @@ Backend
  - linkedin.com/in/jacob-eul
  - linkedin.com/in/jonathan-mantello
 
-Frontend
- - linkedin.com/in/troy-dunbar
- - linkedin.com/in/giancarlopadron
- - linkedin.com/in/timstumper
-
-Business Analyst
- - linkedin.com/in/salona-khanal
- - linkedin.com/in/pranav-v-886986163
-
 # Requirements
 Create an application that can educate and guide a user on how to plan for Special Needs dependents.
 
